@@ -1,0 +1,31 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "en-us"
+title = "Ashish"
+
+[params]
+  author = "Ashish Jingar"
+  description = "Associate Consultant at OFSS"
+  github = "https://github.com/StrangeAJ" 
+  socialIcons = "outlined"
+  theme = "light"
+  linkedin = "https://www.linkedin.com/in/jingar-ashish"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
