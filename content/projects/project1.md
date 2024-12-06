@@ -1,4 +1,3 @@
-# content/projects/project1.md
 ---
 title: "Project Name"
 date: 2024-03-20
