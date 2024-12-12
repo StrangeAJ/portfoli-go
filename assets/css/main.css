@@ -17,7 +17,7 @@
     --bg-secondary: #4a4a4a;
     --text-primary: #d1d1d1;
     --text-secondary: #c4c4c4;
-    --accent: #66b3ff;
+    --accent: #00c4c4;
     --border: #333333;
     --nav-bg: rgba(0, 0, 0, 0.45);
     --card-bg: #2d2d2d;
@@ -59,6 +59,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: var(--transition);
 }
 
 .theme-toggle svg {
@@ -80,10 +81,33 @@ body {
 }
 
 .nav-logo {
-    color: var(--text-primary);
     text-decoration: none;
     font-weight: bold;
     font-size: 1.25rem;
+}
+
+[data-theme="light"] .nav-logo {
+    color: color-mix(in hsl decreasing hue, var(--text-primary) 50%, var(--accent) 40%);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+[data-theme="light"] .nav-logo:hover {
+    color: color-mix(in hsl decreasing hue, var(--text-primary) 10%, var(--accent) 80%);
+}
+
+[data-theme="dark"]  .nav-logo {
+    color: color-mix(in hsl increasing hue, var(--text-primary) 10%, var(--accent) 70%);
+}
+
+[data-theme="dark"] .nav-logo:hover {
+    color: color-mix(in hsl decreasing hue, var(--text-primary) 60%, var(--accent) 80%);
+}
+
+.nav-links {
+    display: flex;
+    gap: 1rem;
 }
 
 .nav-link {
@@ -133,5 +157,5 @@ body {
 }
 
 .social-links a:hover {
-    color: var(--accent);
+    color: var(--text-secondary);
 }

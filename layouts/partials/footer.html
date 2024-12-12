@@ -1,0 +1,12 @@
+<footer class="footer">
+    <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.author }} 😊</p>
+    <div class="social-links">
+        {{ with .Site.Params.github }}
+        <a href="{{ . }}" target="_blank">
+            {{ partial "arrowIcon.html" . }}  GitHub</a>
+        {{ end }}
+        {{ with .Site.Params.linkedin }}
+        <a href="{{ . }}" target="_blank">{{ partial "arrowIcon.html" . }}  LinkedIn</a>
+        {{ end }}
+    </div>
+</footer>
