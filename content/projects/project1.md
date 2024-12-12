@@ -1,5 +1,5 @@
 ---
-title: "Project Name"
+title: "Project 1"
 date: 2024-03-20
 description: "Brief project description"
 tech: ["Java", "Spring Boot", "React"]
