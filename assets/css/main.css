@@ -10,6 +10,7 @@
     --transition: all 0.3s ease;
     --nav-bg: rgba(255, 255, 255, 0.45);
     --card-bg: #ffffff;
+    --nav-height: 60px;
 }
 
 [data-theme="dark"] {
@@ -49,6 +50,7 @@ body {
     backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--border);
     z-index: 1000;
+    max-height: 25%;
 }
 
 .theme-toggle {
@@ -129,6 +131,7 @@ body {
     flex: 1;
     text-align:justify;
     justify-content: flex-start;
+    margin-top: 5%;
 }
 
 a {
@@ -176,3 +179,76 @@ a:hover {
 .social-links a:hover {
     color: var(--text-secondary);
 }
+.nav-toggle {
+    display: none;
+  }
+  
+  /* Style the hamburger icon */
+  .nav-toggle-label {
+    display: none;
+    cursor: pointer;
+  }
+  
+  .nav-toggle-label span {
+    display: block;
+    width: 30px;
+    height: 3px;
+    margin: 5px 0;
+    background: #333;
+  }
+  
+  /* Responsive styles */
+  
+  @media(max-width: 320px) {
+    .content {
+        margin-top: 40%;
+    }
+    
+  }
+
+  @media(max-width: 480px) {
+    .content {
+        margin-top: 35%;
+    }
+
+  }
+
+  @media(max-width: 600px) {
+    .content {
+        margin-top: 30%;
+    }
+
+  }
+
+
+  @media (max-width: 768px) {
+    .content {
+        margin-top: 25%;
+    }
+
+    .nav-toggle-label {
+      display: block;
+    }
+  
+    .nav-links {
+      display: none;
+      flex-direction: column;
+    }
+  
+    .nav-toggle:checked + .nav-toggle-label + .nav-links {
+      display: flex;
+    }
+  }
+
+  @media(max-width: 864px) {
+    .content {
+        margin-top: 20%;
+    }
+  }
+
+  @media(max-width: 1024px) {
+    .content {
+        margin-top: 10%;
+    }
+    
+  }
