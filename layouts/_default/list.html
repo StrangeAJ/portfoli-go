@@ -2,6 +2,8 @@
 <section class="list-page">
     <h1>{{ .Title }}</h1>
     <ul class="post-list">
+        {{/*  check if the page is not Home  */}}
+        {{ if not .IsHome }}
         {{ range .Pages }}
         <li class="post-list-item">
             <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
@@ -10,6 +12,7 @@
             {{ end }}
             <br></br>
         </li>
+        {{ end }}
         {{ end }}
     </ul>
     {{ .Content }}
