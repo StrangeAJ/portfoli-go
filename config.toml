@@ -1,6 +1,6 @@
 baseURL = "https://yourdomain.com/"
 languageCode = "en-us"
-title = "Ashish"
+title = "Ashish Jingar's Portfoli-Go"
 
 [params]
   author = "Ashish Jingar"
