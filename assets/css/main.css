@@ -197,6 +197,31 @@ a:hover {
     background: #333;
   }
   
+  .post-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .tech-stack {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.tech-chip {
+    display: inline-block;
+    background-color: var(--bg-secondary);
+    border-radius: 16px;
+    padding: 4px 12px;
+    margin: 4px 4px 0 0;
+    font-size: 0.9em;
+}
+
+.tech-chip:hover{
+    background-color: var(--bg-primary);
+}
+
   /* Responsive styles */
   
   @media(max-width: 320px) {

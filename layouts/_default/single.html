@@ -2,5 +2,20 @@
 <article class="post">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
+    {{ with .Params.live }}
+    <a href="{{ . }}" target="_blank">{{ partial "arrowIcon.html" . }}  View live   </a>
+    <span class="divider">&nbsp;&nbsp;&nbsp;</span>
+    {{ end }}
+    {{ with .Params.source }}
+    <a href="{{ . }}" target="_blank">  {{  partial "arrowIcon.html" . }}     View Source Code</a>
+    {{ end }}
+
+    {{ with .Params.tech }}
+    <ul class="tech-stack">
+        {{ range . }}
+        <li class="tech-chip">{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
 </article>
 {{ end }}

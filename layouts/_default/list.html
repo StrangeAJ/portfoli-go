@@ -1,16 +1,17 @@
 {{ define "main" }}
 <section class="list-page">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
     <ul class="post-list">
         {{ range .Pages }}
-        <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ with .Description }}
-            <p>{{ . }}</p>
+        <li class="post-list-item">
+            <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
+            : {{ with .Description }}
+            {{ . }}
             {{ end }}
+            <br></br>
         </li>
         {{ end }}
     </ul>
+    {{ .Content }}
 </section>
 {{ end }}
