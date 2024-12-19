@@ -28,4 +28,10 @@ title = "Ashish"
     name = "Contact"
     url = "/contact/"
     weight = 3
+  
+  [[menu.main]]
+    identifier = "work"
+    name = "Work"
+    url = "/work/"
+    weight = 4
 
