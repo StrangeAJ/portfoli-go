@@ -22,3 +22,6 @@ I am an Associate Consultant at Oracle, passionate about building scalable and s
 [View My Projects 🚀](/projects)
 
 [Get in Touch 📨](/contact)
+[View My Projects 🚀](/projects)
+
+[Get in Touch 📨](/contact)
