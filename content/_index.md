@@ -19,9 +19,8 @@ I am an Associate Consultant at Oracle, passionate about building scalable and s
 - **Frameworks**: Next.js, React, Express.js, Svelte, Flask, Django, Dash, Hugo, Spring Boot, Android SDK
 - **Tools**: Git, Linux, RegEx, Vim, AWS (EC2, Elastic Beanstalk), GCP (Cloud Run, VM Instances)
 
+
 [View My Projects 🚀](/projects)
 
-[Get in Touch 📨](/contact)
-[View My Projects 🚀](/projects)
 
 [Get in Touch 📨](/contact)
