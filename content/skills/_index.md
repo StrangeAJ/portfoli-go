@@ -58,6 +58,6 @@ title: "Skills & Technologies 💻"
 
  ### **Platforms (I'm Active on)**
  ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
- ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
+ [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/StrangeAJ)
  ![Vercel](https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg)
- ![TryHackMe](https://assets.tryhackme.com/img/THMlogo.png)
+ [![TryHackMe](https://assets.tryhackme.com/img/THMlogo.png)](https://tryhackme.com/r/p/ashishjingar)
