@@ -2,25 +2,31 @@
 title: "Hello, I'm Ashish Jingar 👋"
 ---
 
-## About Me
-
 I am an Associate Consultant at Oracle, passionate about building scalable and secure solutions while exploring new technologies. My experience spans across various domains including ETL, Analytics, Full-Stack and Mobile Developement.
 
-[View My Work Experience 💻](/work)
+## Professional Journey 🚀
+
+I am an Associate Consultant at Oracle, currently working on Oracle Financial Services Analytical Applications (OFSSA) for the implementation of AML (Anti-Money Laundering) solutions for clients. My experience includes working with technologies like Pentaho, Java Spring Boot, and OBIEE, and collaborating in domains like ETL and Analytics.
+
+Previously, I was a Front-End Developer Intern at Piombo, where I collaborated with the team to develop a web application and its design, utilizing React.js as the primary UI library.
+
+I also interned as a Full-Stack Developer at Offeteria, where I led the tech team in developing a web application using the MERN stack. I designed the tech architecture and managed task execution and workflow. We utilized Heroku for test hosting and GitHub for collaboration.
+
+Additionally, I was an App Developer Intern at Acuradyne Systems, where I developed web dashboard apps for data visualization using Dash (Python). I worked on the Kotlin Android SDK for developing Android applications interfacing with sensors, and utilized AWS services like Elastic Beanstalk, CodePipeline, and EC2 for hosting Node.js web applications.
+
+
+[--> View My Work Experience 💻](/work)
 
 ## Education
 
-- **Bachelor of Technology in Electronics** : Sardar Patel Institute of Technology, Mumbai, India (2019 - 2023), GPA: 8
+- **B.E. Electronics** : Sardar Patel Institute of Technology, Mumbai, India (2019 - 2023), GPA: 8
 - **HSC** : Ashok Vidyalaya and Jr. College, Pune, India (2018 - 2019), Percentage: 73.08%, JEE Percentile: 94.02%
+- **SSC** : Jawahar Navodaya Vidyalay (JNV), Kagal, Kolhapur (2017 - 2018), Percentage: 77.20%
 
-## Skills
-
-- **Programming Languages**: Java, Python, Go, JavaScript, Dart, Kotlin, Bash, C, PowerShell, Assembly (x86, PIC, ARM)
-- **Frameworks**: Next.js, React, Express.js, Svelte, Flask, Django, Dash, Hugo, Spring Boot, Android SDK
-- **Tools**: Git, Linux, RegEx, Vim, AWS (EC2, Elastic Beanstalk), GCP (Cloud Run, VM Instances)
+[--> View my Skills 🛠️](/skills)
 
 
-[View My Projects 🚀](/projects)
+[--> View My Projects 🚀](/projects)
 
 
-[Get in Touch 📨](/contact)
+[--> Get in Touch 📨](/contact)
