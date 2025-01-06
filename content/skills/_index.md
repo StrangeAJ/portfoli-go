@@ -35,7 +35,7 @@ title: "Skills & Technologies 💻"
 ### Tools & Platforms
 
 #### **Cloud**
-![AWS EC2](https://answerrocket.com/wp-content/uploads/amazon-ec2-logo-625x345-1.svg)
+![AWS EC2](https://icon.icepanel.io/AWS/svg/Compute/EC2.svg)
 ![AWS Elastic Beanstalk](https://icon.icepanel.io/AWS/svg/Compute/Elastic-Beanstalk.svg)
  ![GCP](https://www.gstatic.com/bricks/image/f2e0986a2802c0b6c4be7f1355599d5aadfb21a63b7e9643d96697ff9334a1e1.svg) 
  ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)
