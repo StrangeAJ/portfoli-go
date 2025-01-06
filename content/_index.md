@@ -14,10 +14,7 @@ I also interned as a Full-Stack Developer at Offeteria, where I led the tech tea
 
 Additionally, I was an App Developer Intern at Acuradyne Systems, where I developed web dashboard apps for data visualization using Dash (Python). I worked on the Kotlin Android SDK for developing Android applications interfacing with sensors, and utilized AWS services like Elastic Beanstalk, CodePipeline, and EC2 for hosting Node.js web applications.
 
-View My ...   
-[> Work Experience 💻](/work)   
-[> Education 🎓](/edu)  
-[> Skills 🛠️](/skills)  
-[> Projects 🚀](/projects)  
+*View My ...*  
+[> **Work Experience 💻**](/work) | [> **Education 🎓**](/edu)  |   [> **Skills 🛠️**](/skills)  | [> **Projects 🚀**](/projects)  
 
-[^ Get in Touch 📨](/contact)
+[^ **Get in Touch 📨**](/contact)
