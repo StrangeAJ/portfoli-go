@@ -10,6 +10,11 @@ title = "Ashish Jingar's Portfoli-Go"
   theme = "light"
   linkedin = "https://www.linkedin.com/in/jingar-ashish"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]

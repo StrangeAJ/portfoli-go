@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article class="education-page">
+    <header class="page-header">
+        <h1 class="page-title">{{ .Title }}</h1>
+    </header>
+
+    <div class="page-content">
+        {{ with .Content }}
+            {{ . | safeHTML }}
+        {{ end }}
+    </div>
+    <style>
+        img {
+            height: 2rem;
+            width:auto;
+            object-fit:cover;
+            background-color:rgba(0, 0, 0, 0);
+            padding : 0 1rem;
+            filter: grayscale(0.35);
+          }
+          img:hover {
+            transform: none;
+            transition: none;
+          }
+    </style>
+
+</article>
+{{ end }}

@@ -14,19 +14,10 @@ I also interned as a Full-Stack Developer at Offeteria, where I led the tech tea
 
 Additionally, I was an App Developer Intern at Acuradyne Systems, where I developed web dashboard apps for data visualization using Dash (Python). I worked on the Kotlin Android SDK for developing Android applications interfacing with sensors, and utilized AWS services like Elastic Beanstalk, CodePipeline, and EC2 for hosting Node.js web applications.
 
+View My ...   
+[> Work Experience 💻](/work)   
+[> Education 🎓](/edu)  
+[> Skills 🛠️](/skills)  
+[> Projects 🚀](/projects)  
 
-[--> View My Work Experience 💻](/work)
-
-## Education
-
-- **B.E. Electronics** : Sardar Patel Institute of Technology, Mumbai, India (2019 - 2023), GPA: 8
-- **HSC** : Ashok Vidyalaya and Jr. College, Pune, India (2018 - 2019), Percentage: 73.08%, JEE Percentile: 94.02%
-- **SSC** : Jawahar Navodaya Vidyalay (JNV), Kagal, Kolhapur (2017 - 2018), Percentage: 77.20%
-
-[--> View my Skills 🛠️](/skills)
-
-
-[--> View My Projects 🚀](/projects)
-
-
-[--> Get in Touch 📨](/contact)
+[^ Get in Touch 📨](/contact)
