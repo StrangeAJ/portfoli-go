@@ -3,9 +3,9 @@ title : "Work Experience 💻"
 ---
 
 ### Associate Consultant @ Oracle (Aug. 2023 - Present)
-- Worked in OFSSA (Oracle Financial Services Analytical Application) for the implementation of AML(Anti Money Laundering) for client.
-- Utilized technologies like Pentaho, Java Spring Boot, and OBIEE.
-- Collaboratively worked in domains like ETL and Analytics.
+- Worked in OFSAA (Oracle Financial Services Analytical Application) for the implementation of AML(Anti Money Laundering).
+- Utilized technologies like SAF (Security Assuarnace Framework) ,Pentaho, Java Spring Boot, and OBIEE.
+- Collaboratively worked in domains like SAF, ETL and Analytics.
 
 ### Front-End Developer Intern @ Piombo (Jan. 2023 - June 2023)
 - Collaborated with the team to develop a web application & its design.

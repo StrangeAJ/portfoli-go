@@ -32,7 +32,7 @@ title: "Education & Certifications"
 - *Introduction to Cybersecurity (Cisco)*   
   - Credential ID: 0d02c6ce-b922-4853-8946-841184602178  
   - Issued: 25th September 2024     
-  [> Certificate Link](https://www.credly.com/badges/0d02c6ce-b922-4853-8946-841184602178/linked_in_profile)
+  [> Certificate Link](https://www.credly.com/badges/7cf8d133-cdea-4a14-9da8-29fd986806f8/linked_in_profile)
 
 ![NPTEL Logo](https://internalapp.nptel.ac.in/exam_form/images/logo.png)
 - *Cloud Computing (NPTEL)*
