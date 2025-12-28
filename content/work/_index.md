@@ -2,21 +2,19 @@
 title : "Work Experience 💻"
 ---
 
-### Associate Consultant @ Oracle (Aug. 2023 - Present)
-- Worked in OFSAA (Oracle Financial Services Analytical Application) for the implementation of AML(Anti Money Laundering).
-- Utilized technologies like SAF (Security Assuarnace Framework) ,Pentaho, Java Spring Boot, and OBIEE.
-- Collaboratively worked in domains like SAF, ETL and Analytics.
+### Associate Consultant @ Oracle (Aug 2023 - Sep 2025)
+- Reduced vulnerability incidents by implementing security controls and conducting risk audits using Oracle's Security Assurance Framework (SAF).
+- Developed and maintained secure financial crime and compliance management (FCCM) applications using Java Spring Boot, Pentaho, and OBIEE.
+- Collaborated with cross-functional teams in Analytics, ETL, and Anti-Money Laundering (AML) to ensure comprehensive fintech-security integration.
 
-### Front-End Developer Intern @ Piombo (Jan. 2023 - June 2023)
-- Collaborated with the team to develop a web application & its design.
-- Utilized React.js as the primary UI library.
+### MERN Stack Developer Intern @ Cpiombo (Jan 2023 - Jun 2023)
+- Strengthened platform security by implementing comprehensive input sanitisation to prevent injection attacks and safeguard user data.
+- Engineered backend user authentication services using Node.js, integrating Twilio and Nodemailer for secure two-factor authentication.
 
-### Full-Stack Developer Intern @ Offeteria (Jan. 2022 - June 2022)
-- Led the tech team in developing a web application using the MERN stack.
-- Designed the tech architecture and managed task execution and workflow.
-- Utilized Heroku for test hosting and GitHub for collaboration.
+### Full-Stack Developer Intern @ Offeteria (Jan 2022 - Jun 2022)
+- Led the tech team in designing and developing a web application using the MERN (MongoDB, Express.js, React, Node.js) stack.
+- Designed the complete technical architecture and managed the project workflow and deployment pipeline using GitHub and Heroku.
 
-### App Developer Intern @ Acuradyne Systems (Jan. 2022 - June 2022)
-- Developed web dashboard apps for data visualization using Dash (Python).
-- Worked on the Kotlin Android SDK for developing Android applications interfacing with sensors.
-- Utilized AWS services like Elastic Beanstalk, CodePipeline, and EC2 for hosting Node.js web applications.
+### App Developer Intern @ Acuradyne Systems (Jan 2022 - Jun 2022)
+- Developed secure Android dashboard applications for visualising sensitive healthcare data, ensuring confidentiality with encrypted transmission protocols.
+- Designed and implemented secure REST API endpoints and robust authentication mechanisms to protect patient data integrity using Node.js and AWS.

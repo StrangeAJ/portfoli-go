@@ -55,9 +55,8 @@ title: "Skills & Technologies 💻"
 #### **ETL & Analytics**
  ![Pentaho](https://awesome-astra.github.io/docs/img/pentaho-data-integration/logo-pentaho.png)
  ![OBIEE](https://mlin2mlpiqa4.i.optimole.com/w:465/h:177/q:mauto/f:best/https://prefiguretechnologies.com/wp-content/uploads/2022/09/oracle-bi-logo.png)
+ ![Cisco Packet Tracer](https://cisco-packet-tracer.fileion.com/curator/software/logos/2025/06/cisco-packet-tracer.png?w=90&s=da03bc806681449db18469b7edf5c4d8)
 
  ### **Platforms (I'm Active on)**
- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
  [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/StrangeAJ)
- ![Vercel](https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg)
  [![TryHackMe](https://assets.tryhackme.com/img/THMlogo.png)](https://tryhackme.com/r/p/ashishjingar)
