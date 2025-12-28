@@ -44,3 +44,8 @@ node_modules/
 # Temporary files
 *.tmp
 *.swp
+
+
+scripts/
+about_me_source_dump.txt
+portflio_knowledgebase.md

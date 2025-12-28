@@ -10,6 +10,12 @@ title: "Education & Certifications"
 
 ## Certifications
 
+![TryHackMe Logo](https://assets.tryhackme.com/img/THMlogo.png)
+- *Cyber-Security 101 (TryHackMe)*
+  - Credential ID: THM-FSWO4PXOPZ
+  - Issued: 30th January 2025  
+  [> Certificate Link](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FSWO4PXOPZ.pdf) 
+
 ![ISRO IIRS LOGO](https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg)
 - *Geo-Data Sharing and Cybersecurity*
   - Credential ID: T6RxXhBdY1
