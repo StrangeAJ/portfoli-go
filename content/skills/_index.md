@@ -52,6 +52,13 @@ title: "Skills & Technologies 💻"
 
 ### **Areas of Expertise**
 
+#### **Security Tools**
+- SpotBugs (SAST)
+- OWASP Dependency-Check (SCA)
+- OWASP ZAP (DAST)
+- Postman (API Testing)
+- Burp Suite (Manual Testing & Debugging)
+
 #### **ETL & Analytics**
  ![Pentaho](https://awesome-astra.github.io/docs/img/pentaho-data-integration/logo-pentaho.png)
  ![OBIEE](https://mlin2mlpiqa4.i.optimole.com/w:465/h:177/q:mauto/f:best/https://prefiguretechnologies.com/wp-content/uploads/2022/09/oracle-bi-logo.png)

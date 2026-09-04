@@ -4,11 +4,23 @@ title: "Education & Certifications"
 
 ## Education
 - **MSc Cyber Security Management**: University of Warwick, Coventry, UK (2025 - 2026)
+  - Modules: Forensics, Network Security, Applied Cryptography, Cyber Risk, Audit & Compliance, Incident Response, Human Factors, Consultancy — on track for a Distinction
 - **B.Engg. Electronics**: Sardar Patel Institute of Technology, University of Mumbai, India (2019 - 2023), GPA: 7.71
 <!-- - **HSC**: Ashok Vidyalaya and Jr. College, Pune, India (2018 - 2019), Percentage: 73.08%, JEE Percentile: 94.02%
 - **SSC**: Jawahar Navodaya Vidyalay (JNV), Kagal, Kolhapur (2017 - 2018), Percentage: 77.20% -->
 
 ## Certifications
+
+- *AZ-500: Microsoft Azure Security Engineer Associate* — **Pursuing**
+- *BSCP: Burp Suite Certified Practitioner (Web Security Academy)* — **Pursuing**
+- *Certified in Cybersecurity (CC) (ISC2)* — Expected July 2026
+- *AI For Everyone (DeepLearning.AI)*
+  - Credential ID: O3JA6MOWF4GN
+  - Issued: August 2025
+- *Exposure Management Certification (XM Cyber)*
+  - Credential ID: 9se4jbedfy
+  - Issued: June 2025
+  - Skills: Threat & Vulnerability Management, Exposure Management
 
 ![TryHackMe Logo](https://assets.tryhackme.com/img/THMlogo.png)
 - *Cyber-Security 101 (TryHackMe)*
@@ -52,3 +64,15 @@ title: "Education & Certifications"
   - Credential ID: NPTEL23CS48S3423006204073733
   - Issued: April 2023
   [> Certificate Link](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS48S3423006204073733)
+
+## Honors & Awards
+
+- **Black Hat Europe Scholar 2025** — Black Hat Europe (Nov 2025)
+- **WMG Excellence Award** — WMG, University of Warwick (Jun 2025)
+- **3rd Place, PwnED CTF** — Sigint, University of Edinburgh (Mar 2026)
+- **2nd Place, ElasticSearch CTF** — University of Warwick (Nov 2025)
+
+## Positions of Responsibility
+
+- **Postgraduate Representative**, Warwick Cyber Security Society (Oct 2025 - Present)
+  - Represent postgraduate students and support cybersecurity society initiatives.

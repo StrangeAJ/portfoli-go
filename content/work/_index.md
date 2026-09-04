@@ -4,7 +4,8 @@ title : "Work Experience 💻"
 
 ### Associate Consultant @ Oracle (Aug 2023 - Sep 2025)
 - Reduced vulnerability incidents by implementing security controls and conducting risk audits using Oracle's Security Assurance Framework (SAF).
-- Developed and maintained secure financial crime and compliance management (FCCM) applications using Java Spring Boot, Pentaho, and OBIEE.
+- Developed and maintained secure financial crime and compliance management (FCCM) applications used in AML, KYC, and Customer Screening systems, built with Java Spring Boot, Pentaho, and OBIEE.
+- Ran SAST scans and resolved identified issues to maintain secure coding standards.
 - Collaborated with cross-functional teams in Analytics, ETL, and Anti-Money Laundering (AML) to ensure comprehensive fintech-security integration.
 
 ### MERN Stack Developer Intern @ Cpiombo (Jan 2023 - Jun 2023)
